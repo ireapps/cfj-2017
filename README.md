@@ -17,12 +17,10 @@ Code and documentation to support IRE's multi-day Python bootcamp in Minneapolis
 - Send a message to Slack or Twitter
 - Batch geocode a file of addresses
 
-### Sunday, Nov. 5 (9 a.m. - 5 p.m.)
+### Sunday, Nov. 5 (9 a.m. - 7 p.m.)
 
 - Scrape a more complicated website
 - Analyzing 
 - Debugging errors
 - Overview of learning resources
 - Getting your computer set up to take back to your home/newsroom (optional)
-
-### Saturday, Nov. 4
