@@ -9,18 +9,21 @@ Code and documentation to support IRE's multi-day Python bootcamp in Minneapolis
 - Why programming? Newsroom use cases and examples
 - Python fundamentals
 - Working with data files
+- Functions
 
 ### Saturday, Nov. 4 (9 a.m. - 5 p.m.)
 
 - Write a data-cleaning function
-- Scrape a simple website
-- Send a message to Slack or Twitter
+- Let's scrape some websites
+- Working with APIs: Send a message to Slack
+- Working with APIs: Using data from Socrata
 - Batch geocode a file of addresses
 
 ### Sunday, Nov. 5 (9 a.m. - 7 p.m.)
 
-- Scrape a more complicated website
-- Analyzing 
+- Analyzing data with pandas
 - Debugging errors
+- Miscellaneous Python things
 - Overview of learning resources
+- Additional exercises
 - Getting your computer set up to take back to your home/newsroom (optional)
