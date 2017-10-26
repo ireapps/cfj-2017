@@ -14,16 +14,16 @@ Code and documentation to support IRE's multi-day Python bootcamp in Minneapolis
 ### Saturday, Nov. 4 (9 a.m. - 5 p.m.)
 
 - Write a data-cleaning function
-- Let's scrape some websites
+- Analyzing data with pandas
 - Working with APIs: Send a message to Slack
 - Working with APIs: Using data from Socrata
 - Batch geocode a file of addresses
 
 ### Sunday, Nov. 5 (9 a.m. - 7 p.m.)
 
-- Analyzing data with pandas
+- Let's scrape some websites
 - Debugging errors
 - Miscellaneous Python things
 - Overview of learning resources
-- Additional exercises
+- Additional exercises (if time)
 - Getting your computer set up to take back to your home/newsroom (optional)
